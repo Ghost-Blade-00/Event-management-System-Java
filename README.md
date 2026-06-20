@@ -283,7 +283,7 @@ Planify provides multiple event management solutions including registration mana
 ```
 ---
 
-Event Lifecycle Management
+### Event Lifecycle Management
 
 The platform supports the complete event lifecycle from planning and promotion to execution and post-event analysis.
 ```md
