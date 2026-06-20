@@ -189,62 +189,42 @@ http://localhost:5173
 
 ### Landing Page
 
-
-
-```md
 <img width="1536" height="691" alt="image" src="https://github.com/user-attachments/assets/7217e98d-c0c9-4d24-be9c-e81bbfcec70a" />
 
-```
 
 ### User Registration
 
-
-```md
 <img width="1536" height="684" alt="image" src="https://github.com/user-attachments/assets/a021805a-67a0-46b9-bb8d-f5f5d70b5302" />
 
-```
 
 ### User Login
 
-
-
-```md
 <img width="1534" height="681" alt="image" src="https://github.com/user-attachments/assets/dee8946d-e4df-49e9-b89a-7d3dc1c95c7f" />
 
-```
 
 ### Event Listing
 
-
-```md
 <img width="1536" height="694" alt="image" src="https://github.com/user-attachments/assets/753b5798-d122-46ce-9fb6-b1ecea43f604" />
 
-```
 
 ### Dashboard
 
 
-```md
 <img width="1536" height="688" alt="image" src="https://github.com/user-attachments/assets/a9b0bcd8-8e92-43d9-b5a3-f051e72a9ddc" />
 
-```
 
 ### Chatbot Support
 
-
-
-```md
 <img width="330" height="404" alt="image" src="https://github.com/user-attachments/assets/8eba0e4e-2440-453c-88b2-fa640cfe883c" />
 
-```
+
 
 ### 24/7 Customer Support
 
 
-```md
 <img width="1536" height="693" alt="image" src="https://github.com/user-attachments/assets/92f9215b-ab7e-49f3-a59c-c6da43c8267b" />
 
-```
+
 
 ---
 
@@ -252,43 +232,43 @@ http://localhost:5173
 
 Validate ticket codes and record attendance in real time.
 
-```md
+
 <img width="1536" height="702" alt="image" src="https://github.com/user-attachments/assets/843004c8-689c-4410-86e5-a4eec2f7207a" />
-```
+
 
 ---
 
 ### My Tickets & Registrations
 
 Registered users can access all upcoming events, registration status, ticket IDs, and attendee badges from a centralized dashboard.
-```md
+
 <img width="1536" height="429" alt="image" src="https://github.com/user-attachments/assets/bcc65016-8dbe-4ff5-8eff-2bbf666bebc3" />
-```
+
 
 ---
 
 ### Digital Attendee Pass
 
 Each successful registration generates a digital attendee pass containing a unique ticket code for event check-in and attendance verification.
-```md
+
 <img width="1536" height="683" alt="image" src="https://github.com/user-attachments/assets/3c5f1b95-4483-410a-8d28-68ccbebf014b" />
-```
+
 ---
 
 ### Core Platform Solutions
 
 Planify provides multiple event management solutions including registration management, mobile event applications, webinar hosting, and attendee engagement tools.
-```md
+
 <img width="1536" height="631" alt="image" src="https://github.com/user-attachments/assets/af722eb7-9740-492c-b3df-0fc4b799d9fe" />
-```
+
 ---
 
 ### Event Lifecycle Management
 
 The platform supports the complete event lifecycle from planning and promotion to execution and post-event analysis.
-```md
+
 <img width="1536" height="687" alt="image" src="https://github.com/user-attachments/assets/dfb7e1fc-79df-4625-9e42-283cd0c12a5c" />
-```
+
 
 ---
 
